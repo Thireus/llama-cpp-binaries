@@ -1,3 +1,3 @@
 [submodule "llama.cpp"]
 	path = llama.cpp
-	url = git@github.com:Thireus/llama.cpp.git
+	url = https://github.com/Thireus/llama.cpp
