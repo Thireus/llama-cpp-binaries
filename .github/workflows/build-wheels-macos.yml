@@ -84,7 +84,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          repository: 'oobabooga/llama-cpp-binaries'
+          repository: 'Thireus/llama-cpp-binaries'
           ref: ${{ inputs.version }}
           submodules: 'recursive'
 
